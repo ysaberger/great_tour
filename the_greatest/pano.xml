@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" start="node1" appversion="6.1.13">
+  <panorama id="node1">
+    <input height="2500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" leveltilesize="510" overlap="1" levelingroll="0" levelingpitch="0">
+      <level preload="0" height="2500" width="2500" predecode="0"/>
+      <level preload="0" height="1250" width="1250" predecode="0"/>
+      <level preload="0" height="625" width="625" predecode="0"/>
+      <level preload="1" height="312" width="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="315">
+      <start fov="70" projection="4" pan="166.714" tilt="-5.39078"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata description="UVU Review Newsroom in the Student Life Center" author="Ysabel Berger" customnodeid="" heading="315" datetime="11/10/21 1:55 PM" latitude="40.27932130" comment="" source="" info="" nodeid="node1" title="Entrance to Newsroom" copyright="" tags="06- AUGMENTED TOUR" longitude="-111.71502223"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundalpha="1" textcolor="0x000000" height="20" border="1" wordwrap="1" width="180" background="1" textalpha="1" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" url="images/1-THE-NEWSROOM.png" id="Point02" skinid="ht_image" target="" pan="-174.07" tilt="-0.38" title="The Newsroom"/>
+      <hotspot description="" url="{node5}" id="Point01" skinid="ht_node" distance="6.00521" target="$fwd" pan="166.241" tilt="-1.11" title="Newsroom Opening"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="0" zoomout="0" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve"/>
+    <autorotate speed="0.050" enabled="1" delay="5.00" returntohorizon="0.000" noderandom="1" nodedelay="0.00" nodefilter="" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" contextvr="1" lockedkeyboard="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="2500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" leveltilesize="510" overlap="1" levelingroll="0" levelingpitch="0">
+      <level preload="0" height="2500" width="2500" predecode="0"/>
+      <level preload="0" height="1250" width="1250" predecode="0"/>
+      <level preload="0" height="625" width="625" predecode="0"/>
+      <level preload="1" height="312" width="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="171">
+      <start fov="70" projection="4" pan="20.3578" tilt="-4.84669"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata description="UVU Review Newsroom in the Student Life Center" author="Ysabel Berger" customnodeid="" heading="171" datetime="11/10/21 1:59 PM" latitude="40.27928012" comment="" source="" info="" nodeid="node5" title="Newsroom Opening" copyright="" tags="augmented_tour" longitude="-111.71497643"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundalpha="1" textcolor="0x000000" height="20" border="1" wordwrap="1" width="180" background="1" textalpha="1" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" url="{node3}" id="Point01" skinid="ht_node" distance="16.5642" target="$fwd" pan="18.81" tilt="-2.98" title="Middle Newsroom"/>
+      <hotspot description="" url="images/2-SPACE-TO-CREATE.png" id="Space to Create" skinid="ht_image" target="" pan="-321.26" tilt="-5.86" title=""/>
+    </hotspots>
+    <media>
+      <sound mode="3" ambientlevel="0.000" loop="1" id="MUSIC" nodechangekeep="0" tiltsize="4.000" pansize="2.000" field="40.000" pan="-294.490" tilt="5.370" level="0.700" startmutedmobile="0">
+        <source url="media/Vertical_Audio.mp3"/>
+        <source url="media/Vertical_Audio.mp3"/>
+      </sound>
+    </media>
+    <transition blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="0" zoomout="0" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve"/>
+    <autorotate speed="0.050" enabled="1" delay="5.00" returntohorizon="0.000" noderandom="1" nodedelay="0.00" nodefilter="" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" contextvr="1" lockedkeyboard="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" leveltilesize="510" overlap="1" levelingroll="0" levelingpitch="0">
+      <level preload="0" height="2500" width="2500" predecode="0"/>
+      <level preload="0" height="1250" width="1250" predecode="0"/>
+      <level preload="0" height="625" width="625" predecode="0"/>
+      <level preload="1" height="312" width="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-10">
+      <start fov="70" projection="4" pan="-161.002" tilt="-3.25561"/>
+      <flyin fov="70" projection="4" pan="98.59" tilt="-5.45"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata description="UVU Review Newsroom in the Student Life Center" author="Ysabel Berger" customnodeid="" heading="-10" datetime="11/10/21 2:02 PM" latitude="40.27914098" comment="" source="" info="" nodeid="node3" title="Middle Newsroom" copyright="" tags="06- AUGMENTED TOUR" longitude="-111.71490669"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundalpha="1" textcolor="0x000000" height="20" border="1" wordwrap="1" width="180" background="1" textalpha="1" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" url="{node4}" id="Point02" skinid="ht_node" distance="9.99064" target="$fwd" pan="91.1001" tilt="-4.56" title="UVU Student Life and Wellness Center"/>
+      <hotspot description="" url="images/3-PLENTY-OF-DESKS.png" id="Point03" skinid="ht_image" target="" pan="-36.14" tilt="-5.96" title="Plenty of Desks"/>
+      <hotspot description="" url="{node5}" id="Point01" skinid="ht_node" distance="16.5642" target="$fwd" pan="10.926" tilt="0" title="Newsroom Opening"/>
+    </hotspots>
+    <media>
+      <video fov="8.300" field="90.000" tilt="9.010" id="Element01" stretch="1.000" clickmode="2" width="406" pan="-83.610" height="720" handcursor="0" rotz="3.000" ambientlevel="0.100" mode="1" loop="1" roty="-15.000" nodechangekeep="0" tiltsize="10.000" level="1.000" rotx="11.000" startmutedmobile="0" pansize="10.000">
+        <source url="media/vertical_vid.mp4"/>
+        <source url="media/vertical_vid.mp4"/>
+      </video>
+    </media>
+    <transition blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="0" zoomout="0" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve"/>
+    <autorotate speed="0.050" enabled="1" delay="5.00" returntohorizon="0.000" noderandom="1" nodedelay="0.00" nodefilter="" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" contextvr="1" lockedkeyboard="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2500" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" leveltilesize="510" overlap="1" levelingroll="0" levelingpitch="0">
+      <level preload="0" height="2500" width="2500" predecode="0"/>
+      <level preload="0" height="1250" width="1250" predecode="0"/>
+      <level preload="0" height="625" width="625" predecode="0"/>
+      <level preload="1" height="312" width="312" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="170">
+      <start fov="70" projection="4" pan="37.1496" tilt="-9.01383"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" tilt="90"/>
+    </view>
+    <userdata description="UVU Review Newsroom in the Student Life Center" author="Ysabel Berger" customnodeid="" heading="170" datetime="11/10/21 2:04 PM" latitude="40.27909596" comment="" source="" info="" nodeid="node4" title="UVU Student Life and Wellness Center" copyright="" tags="06- AUGMENTED TOUR" longitude="-111.71500861"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label enabled="1" backgroundalpha="1" textcolor="0x000000" height="20" border="1" wordwrap="1" width="180" background="1" textalpha="1" bordercolor="0x000000" borderradius="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" url="{node3}" id="Point01" skinid="ht_node" distance="9.99064" target="$fwd" pan="-97.7299" tilt="0.63" title="Middle Newsroom"/>
+      <hotspot description="" url="images/4-THE-BUILD-ROOM.png" id="Point02" skinid="ht_image" target="" pan="-328.99" tilt="-7.27" title="The Build Room"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" zoomafterinfov="90" enabled="1" zoomafteroutfov="20" zoomin="0" zoomout="0" zoomfov="20" softedge="0" blendcolor="0x000000" zoomoutpause="1" type="crossdissolve"/>
+    <autorotate speed="0.050" enabled="1" delay="5.00" returntohorizon="0.000" noderandom="1" nodedelay="0.00" nodefilter="" useanimation="0" startloaded="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" speedwheel="1" lockedwheel="0" contextvr="1" lockedkeyboard="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="Memorial Square Park on Main Street in Spanish Fork Utah" author="Cam Stephens" customnodeid="" heading="0" datetime="" latitude="40.11266000" comment="" source="" info="" nodeid="master" title="Spanish Fork Memorial Square" copyright="" tags="" longitude="-111.65444000"/>
+  </masternode>
+</tour>
